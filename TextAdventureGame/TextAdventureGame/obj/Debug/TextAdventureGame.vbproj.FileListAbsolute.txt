@@ -1,0 +1,11 @@
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\TextAdventureGame.exe.config
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\TextAdventureGame.exe
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\TextAdventureGame.pdb
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\TextAdventureGame.xml
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.vbprojAssemblyReference.cache
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.Form1.resources
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.Resources.resources
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.vbproj.GenerateResource.cache
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.exe
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.xml
+C:\Users\Aitor\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.pdb
